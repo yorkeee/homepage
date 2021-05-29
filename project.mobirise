@@ -40,14 +40,15 @@
     ],
     "uniqCompNum": 7,
     "versionPublish": "5.0.29",
-    "imageResize": true
+    "imageResize": true,
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Toko Online Bayar Di Tempat",
+        "meta_descr": "Promo selalu, selalu memuaskan",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
